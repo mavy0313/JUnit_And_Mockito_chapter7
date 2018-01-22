@@ -1,4 +1,4 @@
-package exercise;
+package exercise.powermock;
 
 public class MailClient {
 
